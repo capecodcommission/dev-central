@@ -1,4 +1,4 @@
-# **CCC Dev Central*
+# **CCC Dev Central**
 
 >  **Meaning behind:**
 >  This repo has been created by the CCC dev team and will be a constantly updated central resource for all things CCC dev. This includes links to templates, dev news sites, tech API sites, and any other resource that supports our work. When contributing, follow the existing layout of things below.
