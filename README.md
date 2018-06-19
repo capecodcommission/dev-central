@@ -1,7 +1,7 @@
 # **CCC Dev Central**
 
 >  **Why This Exists:**
->  This repo has been created by the CCC dev team and will be a constantly updated central resource for all things CCC dev. This includes links to templates, dev news sites, tech API sites, and any other resource that supports our work. When contributing, follow the existing layout of things below.
+>  This repo has been created by the CCC dev team and will be a constantly updated central resource for all things CCC dev. This includes links to boilerplates/templates, dev news sites, tech API sites, and any other resource that supports our work. When contributing, please follow the existing layout of things below.
 
 ## **Code Boilerplates/Templates**
 
@@ -18,6 +18,10 @@
 * [awesome-react](https://github.com/enaqx/awesome-react#boilerplates)
 
 * [awesome-graphQL](https://github.com/chentsulin/awesome-graphql)
+
+* [awesome-elm](https://github.com/isRuslan/awesome-elm)
+
+* [awesome-elixir](https://github.com/h4cc/awesome-elixir)
 
 * [digiaonline-react-boilerplate](https://github.com/digiaonline/react-boilerplate)
 
@@ -44,11 +48,16 @@
 
 * [git-team-workflow cheatsheet](https://jameschambers.co/writing/git-team-workflow-cheatsheet/)
 
-
 ---
 ## **Tech API Sites**
 
 * [graphQL](https://graphql.org/code/)
+
+* [elm](http://elm-lang.org/)
+
+* [phoenix](http://phoenixframework.org/)
+
+* [elixir](https://elixir-lang.org/)
 
 * [leaflet](https://leafletjs.com/)
 
@@ -67,4 +76,16 @@
 ---
 ## **Other Resources**
 
-* [how-to-graphql](https://www.howtographql.com/)
+* [how-to-graphQL](https://www.howtographql.com/)
+
+* [git-team-workflow-cheatsheet](https://jameschambers.co/writing/git-team-workflow-cheatsheet/)
+
+* [front-end-masters](https://github.com/FrontendMasters/front-end-handbook-2018)
+
+* [...and-graphQL-for-all?](https://apihandyman.io/and-graphql-for-all-a-few-things-to-think-about-before-blindly-dumping-rest-for-graphql/)
+
+* [graphQL-with-elixir/phoenix-and-absinthe](https://itnext.io/graphql-with-elixir-phoenix-and-absinthe-6b0ffd260094)
+
+* [elm-programming](http://elmprogramming.com/)
+
+* [nerves-project](https://nerves-project.org/)
