@@ -74,6 +74,21 @@
 * [arcgis-javascript](https://developers.arcgis.com/javascript/)
 
 ---
+## **Azure Migration Tutorials**
+
+* [Azure Site Recovery](https://azure.microsoft.com/en-us/resources/videos/migration-with-azure-migrate/)
+
+* [LAMP-Stack on Azure VMs](https://azure.microsoft.com/en-us/resources/videos/lamp-stack-on-azure-vms-with-guy-bowerman/)
+
+* [On-Premise VMs to Azure](https://docs.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-on-premises-azure)
+
+* [Disaster Recovery](https://docs.microsoft.com/en-us/azure/site-recovery/physical-azure-disaster-recovery#create-a-replication-policy)
+
+* [On-Premise VM Discovery](https://docs.microsoft.com/en-us/azure/migrate/tutorial-assessment-vmware)
+
+* [Step-by-Step VM Migration](https://www.youtube.com/watch?v=qtRwJUhniAg)
+
+---
 ## **Other Resources**
 
 * [how-to-graphQL](https://www.howtographql.com/)
