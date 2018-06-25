@@ -88,6 +88,8 @@
 
 * [Step-by-Step VM Migration](https://www.youtube.com/watch?v=qtRwJUhniAg)
 
+* [Migrating Existing VM's using Docker Machine](https://docs.docker.com/machine/get-started/#use-machine-to-run-docker-containers)
+
 ---
 ## **Other Resources**
 
