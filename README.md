@@ -25,6 +25,14 @@
 
 * [digiaonline-react-boilerplate](https://github.com/digiaonline/react-boilerplate)
 
+* [react-routing-mobx-bootstrap-boilerplate](https://github.com/tranqy/react-routing-mobx-bootstrap-boilerplate)
+
+* [react-mobx-react-router4-boilerplate](https://github.com/mhaagens/react-mobx-react-router4-boilerplate)
+
+* [react-mobx-react-router-boilerplate](https://github.com/alexdevero/react-mobx-react-router-boilerplate)
+
+
+
 ---
 ## **Dev News Sites**
 
