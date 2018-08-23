@@ -95,6 +95,8 @@
 
 * [how-to-graphQL](https://www.howtographql.com/)
 
+* [visualization-universe](http://visualizationuniverse.com/)
+
 * [git-team-workflow-cheatsheet](https://jameschambers.co/writing/git-team-workflow-cheatsheet/)
 
 * [front-end-masters](https://github.com/FrontendMasters/front-end-handbook-2018)
