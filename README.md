@@ -39,6 +39,12 @@
 
 * [react-mobx-react-router-boilerplate](https://github.com/alexdevero/react-mobx-react-router-boilerplate)
 
+* [vuexfire-admin](https://github.com/vue-bulma/vuexfire-admin)
+
+* [vue-loopback](https://github.com/InCuca/vue-loopback)
+
+* [react-mobx-base](https://github.com/viniarruda/react-mobx-base)
+
 ---
 ## **Dev News Sites**
 
