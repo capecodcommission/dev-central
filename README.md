@@ -7,23 +7,15 @@
 
 * [kriasoft-react-starter-kits](https://github.com/kriasoft)
 
-* [view-starter](https://github.com/devCrossNet/vue-starter)
-
-* [view-express-mongo-boilerplate+authentication](https://github.com/icebob/vue-express-mongo-boilerplate)
-
-* [react-static](https://github.com/nozzle/react-static)
-
-* [react+mobx](https://github.com/mobxjs/mobx-react#boilerplate-projects-that-use-mobx-react)
-
-* [mobx-react-boilerplate](https://github.com/mobxjs/mobx-react-boilerplate)
-
-* [mobx-vue](https://github.com/mobxjs/mobx-vue)
-
-* [vue-express-graphQL](https://github.com/Ethaan/vuexpresso)
+* [vue-starter](https://github.com/devCrossNet/vue-starter)
 
 * [digiaonline-react-boilerplate](https://github.com/digiaonline/react-boilerplate)
 
 * [InCuca-vue-loopback](https://github.com/InCuca/vue-loopback)
+
+* [react-static](https://github.com/nozzle/react-static)
+
+* [vue-express-mongo-boilerplate+authentication](https://github.com/icebob/vue-express-mongo-boilerplate)
 
 
 ## **Awesome Resources**
