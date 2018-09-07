@@ -21,6 +21,13 @@
 
 * [vue-express-graphQL](https://github.com/Ethaan/vuexpresso)
 
+* [digiaonline-react-boilerplate](https://github.com/digiaonline/react-boilerplate)
+
+* [InCuca-vue-loopback](https://github.com/InCuca/vue-loopback)
+
+
+## **Awesome Resources**
+
 * [awesome-vue](https://github.com/vuejs/awesome-vue)
 
 * [awesome-mobx](https://github.com/mobxjs/awesome-mobx)
@@ -32,10 +39,6 @@
 * [awesome-elm](https://github.com/isRuslan/awesome-elm)
 
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir)
-
-* [digiaonline-react-boilerplate](https://github.com/digiaonline/react-boilerplate)
-
-* [InCuca-vue-loopback](https://github.com/InCuca/vue-loopback)
 
 ---
 ## **Dev News Sites**
