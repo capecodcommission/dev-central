@@ -5,6 +5,8 @@
 
 ## **Code Boilerplates/Templates**
 
+* [kriasoft-react-starter-kits](https://github.com/kriasoft)
+
 * [view-starter](https://github.com/devCrossNet/vue-starter)
 
 * [view-express-mongo-boilerplate+authentication](https://github.com/icebob/vue-express-mongo-boilerplate)
