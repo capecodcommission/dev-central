@@ -35,17 +35,7 @@
 
 * [digiaonline-react-boilerplate](https://github.com/digiaonline/react-boilerplate)
 
-* [react-routing-mobx-bootstrap-boilerplate](https://github.com/tranqy/react-routing-mobx-bootstrap-boilerplate)
-
-* [react-mobx-react-router4-boilerplate](https://github.com/mhaagens/react-mobx-react-router4-boilerplate)
-
-* [react-mobx-react-router-boilerplate](https://github.com/alexdevero/react-mobx-react-router-boilerplate)
-
-* [vuexfire-admin](https://github.com/vue-bulma/vuexfire-admin)
-
-* [vue-loopback](https://github.com/InCuca/vue-loopback)
-
-* [react-mobx-base](https://github.com/viniarruda/react-mobx-base)
+* [InCuca-vue-loopback](https://github.com/InCuca/vue-loopback)
 
 ---
 ## **Dev News Sites**
