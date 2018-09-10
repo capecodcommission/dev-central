@@ -11,8 +11,6 @@
 
 * [digiaonline-react-boilerplate](https://github.com/digiaonline/react-boilerplate)
 
-* [InCuca-vue-loopback](https://github.com/InCuca/vue-loopback)
-
 * [react-static](https://github.com/nozzle/react-static)
 
 * [vue-express-mongo-boilerplate+authentication](https://github.com/icebob/vue-express-mongo-boilerplate)
