@@ -15,6 +15,8 @@
 
 * [vue-express-mongo-boilerplate+authentication](https://github.com/icebob/vue-express-mongo-boilerplate)
 
+* [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
+
 
 ## **Awesome Resources**
 
