@@ -100,6 +100,19 @@
 * [Migrating Existing VM's using Docker Machine](https://docs.docker.com/machine/get-started/#use-machine-to-run-docker-containers)
 
 ---
+## **SQL-GraphQL Tutorials and Modules**
+
+* [How to Build a GraphQL Server](https://blog.apollographql.com/tutorial-building-a-graphql-server-cddaa023c035)
+
+* [SQL - GraphQL - JSON](https://codeburst.io/data-hopping-from-sql-to-graphql-to-json-a6ddb4ff34bf)
+
+* [Prisma](https://github.com/prisma/prisma#quickstart)
+
+* [Join Monster](https://github.com/acarl005/join-monster)
+
+* [SQL-to-GraphQL](https://github.com/rexxars/sql-to-graphql)
+
+---
 ## **Other Resources**
 
 * [how-to-graphQL](https://www.howtographql.com/)
