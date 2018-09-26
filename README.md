@@ -112,6 +112,8 @@
 
 * [SQL-to-GraphQL](https://github.com/rexxars/sql-to-graphql)
 
+* [cheat-sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
+
 ---
 ## **Other Resources**
 
